@@ -1,0 +1,8 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Rust build files
+*.rcgu.o
+
+# Ignore VS Code temporary files
+tempCodeRunnerFile.js
