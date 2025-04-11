@@ -52,7 +52,7 @@ Each day:
 
 | Week | Day | Language | Topic | Completion |
 |------|-----|----------|-------|------------|
-| 1    | 1   | Python   | Variables, Conditionals, Loops | ❌ Not Started |
+| 1    | 1   | Python   | Variables, Conditionals, Loops | ✅ Complete |
 | 1    | 2   | TypeScript | Variables, Loops             | ❌ Not Started |
 | 1    | 3   | SQL      | Filtering, CASE WHEN         | ❌ Not Started |
 | 1    | 4   | Rust     | match, loop, if-let          | ❌ Not Started |
@@ -60,16 +60,18 @@ Each day:
 | 1    | 6   | R        | ifelse(), apply()            | ❌ Not Started |
 | 1    | 7   | Ruby     | if/else, loops               | ❌ Not Started |
 
-## 🔜 Coming Up Next
-- **Start Day 1:** Python — variables, conditionals, loops
-- Set up GitHub repo: `7langs-in-7weeks`
-- Start using Git for version control from Day 1
+## 🕼 Coming Up Next
+- **Start Day 2:** TypeScript — variables, loops, conditionals
+- Create folder: `week_1_day_2_typescript/`
+- Compile with `tsc`, explore typed variables and array iteration
 
 ## 🧠 Notes & Memory
 - Student has strong Linux experience
 - Long-term goal includes working with data centers and AI tooling
 - Strong motivation to treat this like a professional project
 - Wants realistic, useful, industry-relevant examples
+- Used GitHub as a learning platform
+- Interested in mastering Git workflow as part of the course
 
 ## 📥 To Continue Tomorrow
 Upload or paste this file, and we'll resume exactly where you left off.
